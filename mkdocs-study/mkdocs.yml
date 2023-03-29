@@ -2,4 +2,4 @@ site_name: My Docs
 theme:
   name: 'material'
   palette:
-    primary: yellow
+    primary: blue
